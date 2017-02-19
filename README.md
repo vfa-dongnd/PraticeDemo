@@ -4,6 +4,3 @@ Update Readme
 master-updated
 develop add
 rebase-develop
-feature-develop
-feature-develop-commit2
-feature-commit3
